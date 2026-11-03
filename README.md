@@ -1,4 +1,53 @@
-# Upwind-Differencing-Scheme
+<!-- HERO:START -->
+<p align="center">
+  <a href="https://github.com/juw12/Upwind-Differencing-Scheme"><img src="docs/media/banner.jpg" alt="Upwind Differencing Scheme: First-order upwind differencing for 1-D wave propagation." width="100%"></a>
+</p>
+
+<p align="center">
+  <b>First-order upwind differencing for 1-D wave propagation.</b><br>
+  A computational fluid dynamics study of upwind differencing, with plotted results.
+</p>
+
+<p align="center">
+  <a href="#see-it-in-action">See it in action</a> ·
+  <a href="#highlights">Highlights</a> ·
+  <a href="https://github.com/juw12">More by juw12</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/juw12/Upwind-Differencing-Scheme"><img src="https://img.shields.io/github/last-commit/juw12/Upwind-Differencing-Scheme?label=updated&color=0891b2" alt="Last updated"></a>
+  <img src="https://img.shields.io/badge/CFD-24292f" alt="CFD">
+  <img src="https://img.shields.io/badge/Gnuplot-24292f" alt="Gnuplot">
+</p>
+
+<a id="highlights"></a>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>Upwind differencing</b><br>
+      A first-order explicit scheme for the 1-D wave equation.
+    </td>
+    <td width="33%" valign="top">
+      <b>Plotted results</b><br>
+      Solutions at several time levels, plotted with Gnuplot.
+    </td>
+    <td width="33%" valign="top">
+      <b>Compare schemes</b><br>
+      Pairs with the Explicit MacCormack study.
+    </td>
+  </tr>
+</table>
+
+## See it in action
+
+<p align="center">
+  <a href="https://github.com/juw12/Upwind-Differencing-Scheme"><img src="upwind_1_5_10.png" alt="Upwind Differencing Scheme screenshot" width="820"></a><br>
+  <sub>Upwind Differencing Scheme in use</sub>
+</p>
+<!-- HERO:END -->
+
+## About
+
 The one dimensional wave propagation equation is given by 
 
 <img width="219" alt="image" src="https://user-images.githubusercontent.com/73946469/126501812-364fb701-13a0-4ab8-8dda-539beab539f8.png">
