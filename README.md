@@ -65,3 +65,6 @@ The solution by the first order backward differencing scheme accurate in first o
 <img width="219" alt="image" src="https://user-images.githubusercontent.com/73946469/126502488-2993e020-7d56-417b-a5e1-f12470168e09.png">
 where the scheme is stable for C ≤1, having an order of accuracy of [∆𝑡,∆𝑥].
 
+## License
+
+Released under the [MIT License](LICENSE) © 2026 Juwen Lie. Contributions are welcome under the same license; see the [contributing guide](https://github.com/juw12/.github/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/juw12/.github/blob/main/CODE_OF_CONDUCT.md).
