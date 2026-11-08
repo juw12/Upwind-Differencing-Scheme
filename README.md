@@ -1,3 +1,4 @@
+> **Moved:** this study now lives in [juw12/cfd-wave-schemes](https://github.com/juw12/cfd-wave-schemes), together with its sister scheme, a tested Python port and a side-by-side comparison. This repo is archived.
 <!-- HERO:START -->
 <p align="center">
   <a href="https://github.com/juw12/Upwind-Differencing-Scheme"><img src="docs/media/banner.jpg" alt="Upwind Differencing Scheme: First-order upwind differencing for 1-D wave propagation." width="100%"></a>
